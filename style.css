@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    }
+    samp{
+        font-family: 'Roboto', sans-serif;
+        color: hsl(0, 90%, 44%);
+    }
+p{
+    font-family: 'Times New Roman', Times, seri;
+    font-size: 16px;
+   } 
+   section{
+    display: flex;
+   }
+   .half-width{
+    width: 50%;
+    padding left: 10px;
+   }
